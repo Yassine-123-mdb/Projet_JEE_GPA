@@ -25,7 +25,7 @@ public class PhoneTest {
 
 		System.out.println(ph.getId()+" "+ph.getMarque()+" "+ph.getCouleur()+" "+ph.getPrix()+" "+ph.getRam()+" "+ph.getStockage());
 
-		//tester les autres méthodes de la classe ClientDao
+		
 		}
 		
 
